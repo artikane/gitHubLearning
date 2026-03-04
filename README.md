@@ -1,4 +1,4 @@
 # gitHubLearning
 This is for learning GitHub
 <br>
-Author : Arti Kane
+Author : Arti Kane (Nirkhe)
